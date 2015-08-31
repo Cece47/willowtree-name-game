@@ -1,0 +1,30 @@
+html {
+  background-color: #FFFFFE;
+}
+
+#main-header {
+  z-index: 0;
+  font-family: 'Quicksand', sans-serif;
+  text-align: center;
+  padding: 1em;
+  padding-top: 2em;
+}
+
+.main-title {
+  font-size: 2em;
+}
+
+.tagline {
+  font-size: 1em;
+  padding: 1em;
+}
+
+#name {
+  display: none;
+  font-family: 'Quicksand', sans-serif;
+  text-align: center;
+  z-index: 1;
+  font-size: 2em;
+  padding: 1em;
+  padding-top: 2em;
+}
