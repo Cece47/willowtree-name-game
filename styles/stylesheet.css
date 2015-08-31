@@ -2,7 +2,7 @@ html {
   background-color: #FFFFFE;
 }
 
-#main-header {
+h1, #main-header {
   z-index: 0;
   font-family: 'Quicksand', sans-serif;
   text-align: center;
@@ -25,15 +25,15 @@ html {
   text-align: center;
   z-index: 1;
   font-size: 2em;
-  padding: 1em;
   padding-top: 2em;
 }
 
 .l-box {
-  padding: 0.3em;
+  padding: 0.2em;
 }
 
 .employees {
-  padding-left: 0.5em;
-  padding-right: 0.5em;
+  margin-top: 5em;
+  padding-left: 0.4em;
+  padding-right: 0.4em;
 }
