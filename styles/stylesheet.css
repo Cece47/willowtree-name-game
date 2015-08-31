@@ -28,3 +28,12 @@ html {
   padding: 1em;
   padding-top: 2em;
 }
+
+.l-box {
+  padding: 0.3em;
+}
+
+.employees {
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
